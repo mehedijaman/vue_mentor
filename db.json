@@ -1,0 +1,348 @@
+{
+    "pricing": [
+        { 
+            "id": 1, 
+            "name": "Free", 
+            "price": "0" ,
+            "features":[
+                {"name" : "Nec feugiat", "status": true},
+                {"name" : "Nec feugiat nisl", "status": true},
+                {"name" : "Nulla at volutpat dola", "status": true},
+                {"name" : "Nulla at volutpat dola", "status": false},
+                {"name" : "Nulla at volutpat", "status": false}
+            ]
+        },
+        { 
+            "id": 2, 
+            "name": "Business", 
+            "price": "19" ,
+            "features":[
+                {"name" : "Nec feugiat", "status": true},
+                {"name" : "Nec feugiat nisl", "status": true},
+                {"name" : "Nulla at volutpat dola", "status": true},
+                {"name" : "Nulla at volutpat dola", "status": true},
+                {"name" : "Nulla at volutpat", "status": false}
+            ]
+        },
+        { 
+            "id": 1, 
+            "name": "Developer", 
+            "price": "29" ,
+            "features":[
+                {"name" : "Nec feugiat", "status": true},
+                {"name" : "Nec feugiat nisl", "status": true},
+                {"name" : "Nulla at volutpat dola", "status": true},
+                {"name" : "Nulla at volutpat dola", "status": true},
+                {"name" : "Nulla at volutpat", "status": true}
+            ]
+        },
+        { 
+            "id": 1, 
+            "name": "Ultimate", 
+            "price": "0" ,
+            "features":[
+                {"name" : "Nec feugiat", "status": true},
+                {"name" : "Nec feugiat nisl", "status": true},
+                {"name" : "Nulla at volutpat dola", "status": true},
+                {"name" : "Nulla at volutpat dola", "status": true},
+                {"name" : "Nulla at volutpat", "status": true}
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "id":1,
+            "name": "Website Design",
+            "category": "Web Development",
+            "price": "$169",
+            "photo": "assets/img/course-1.jpg",
+            "short_description":"Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
+            "description": "Qui et explicabo voluptatem et ab qui vero et voluptas. Sint voluptates temporibus quam autem. Atque nostrum voluptatum laudantium a doloremque enim et ut dicta. Nostrum ducimus est iure minima totam doloribus nisi ullam deserunt. Corporis aut officiis sit nihil est. Labore aut sapiente aperiam. Qui voluptas qui vero ipsum ea voluptatem. Omnis et est. Voluptatem officia voluptatem adipisci et iusto provident doloremque consequatur. Quia et porro est. Et qui corrupti laudantium ipsa. Eum quasi saepe aperiam qui delectus quaerat in. Vitae mollitia ipsa quam. Ipsa aut qui numquam eum iste est dolorum. Rem voluptas ut sit ut.",
+            "available_seats":30,
+            "schedule":"5.00 pm - 7.00 pm",
+            "trainer": {
+                "name" : "Walter White",
+                "photo": "assets/img/trainers/trainer-1.jpg",
+                "followers": 50,
+                "likes": 65
+            },
+            "features":[
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-1.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-2.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-3.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-4.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-5.png"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name": "Search Engine Optimization",
+            "category": "Marketing",
+            "price": "$250",
+            "photo": "assets/img/course-2.jpg",
+            "short_description":"Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
+            "description": "Qui et explicabo voluptatem et ab qui vero et voluptas. Sint voluptates temporibus quam autem. Atque nostrum voluptatum laudantium a doloremque enim et ut dicta. Nostrum ducimus est iure minima totam doloribus nisi ullam deserunt. Corporis aut officiis sit nihil est. Labore aut sapiente aperiam. Qui voluptas qui vero ipsum ea voluptatem. Omnis et est. Voluptatem officia voluptatem adipisci et iusto provident doloremque consequatur. Quia et porro est. Et qui corrupti laudantium ipsa. Eum quasi saepe aperiam qui delectus quaerat in. Vitae mollitia ipsa quam. Ipsa aut qui numquam eum iste est dolorum. Rem voluptas ut sit ut.",
+            "available_seats":30,
+            "schedule":"5.00 pm - 7.00 pm",
+            "trainer": {
+                "name" : "Lana",
+                "photo": "assets/img/trainers/trainer-2.jpg",
+                "followers": 35,
+                "likes": 42
+            },
+            "features":[
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-1.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-2.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-3.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-4.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-5.png"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name": "Copywriting",
+            "category": "Content",
+            "price": "$180",
+            "photo": "assets/img/course-3.jpg",
+            "short_description":"Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
+            "description": "Qui et explicabo voluptatem et ab qui vero et voluptas. Sint voluptates temporibus quam autem. Atque nostrum voluptatum laudantium a doloremque enim et ut dicta. Nostrum ducimus est iure minima totam doloribus nisi ullam deserunt. Corporis aut officiis sit nihil est. Labore aut sapiente aperiam. Qui voluptas qui vero ipsum ea voluptatem. Omnis et est. Voluptatem officia voluptatem adipisci et iusto provident doloremque consequatur. Quia et porro est. Et qui corrupti laudantium ipsa. Eum quasi saepe aperiam qui delectus quaerat in. Vitae mollitia ipsa quam. Ipsa aut qui numquam eum iste est dolorum. Rem voluptas ut sit ut.",
+            "available_seats":30,
+            "schedule":"5.00 pm - 7.00 pm",
+            "trainer": {
+                "name" : "Brandon",
+                "photo": "assets/img/trainers/trainer-3.jpg",
+                "followers": 20,
+                "likes": 100
+            },
+            "features":[
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-1.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-2.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-3.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-4.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-5.png"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name": "Copywriting",
+            "category": "Content",
+            "price": "$180",
+            "photo": "assets/img/course-3.jpg",
+            "short_description":"Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
+            "description": "Qui et explicabo voluptatem et ab qui vero et voluptas. Sint voluptates temporibus quam autem. Atque nostrum voluptatum laudantium a doloremque enim et ut dicta. Nostrum ducimus est iure minima totam doloribus nisi ullam deserunt. Corporis aut officiis sit nihil est. Labore aut sapiente aperiam. Qui voluptas qui vero ipsum ea voluptatem. Omnis et est. Voluptatem officia voluptatem adipisci et iusto provident doloremque consequatur. Quia et porro est. Et qui corrupti laudantium ipsa. Eum quasi saepe aperiam qui delectus quaerat in. Vitae mollitia ipsa quam. Ipsa aut qui numquam eum iste est dolorum. Rem voluptas ut sit ut.",
+            "available_seats":30,
+            "schedule":"5.00 pm - 7.00 pm",
+            "trainer": {
+                "name" : "Brandon",
+                "photo": "assets/img/trainers/trainer-3.jpg",
+                "followers": 20,
+                "likes": 100
+            },
+            "features":[
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-1.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-2.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-3.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-4.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-5.png"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "name": "Copywriting",
+            "category": "Content",
+            "price": "$180",
+            "photo": "assets/img/course-3.jpg",
+            "short_description":"Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
+            "description": "Qui et explicabo voluptatem et ab qui vero et voluptas. Sint voluptates temporibus quam autem. Atque nostrum voluptatum laudantium a doloremque enim et ut dicta. Nostrum ducimus est iure minima totam doloribus nisi ullam deserunt. Corporis aut officiis sit nihil est. Labore aut sapiente aperiam. Qui voluptas qui vero ipsum ea voluptatem. Omnis et est. Voluptatem officia voluptatem adipisci et iusto provident doloremque consequatur. Quia et porro est. Et qui corrupti laudantium ipsa. Eum quasi saepe aperiam qui delectus quaerat in. Vitae mollitia ipsa quam. Ipsa aut qui numquam eum iste est dolorum. Rem voluptas ut sit ut.",
+            "available_seats":30,
+            "schedule":"5.00 pm - 7.00 pm",
+            "trainer": {
+                "name" : "Brandon",
+                "photo": "assets/img/trainers/trainer-3.jpg",
+                "followers": 20,
+                "likes": 100
+            },
+            "features":[
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-1.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-2.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-3.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-4.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-5.png"
+                }
+            ]
+        },
+        {
+            "id":6,
+            "name": "Copywriting",
+            "category": "Content",
+            "price": "$180",
+            "photo": "assets/img/course-3.jpg",
+            "short_description":"Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
+            "description": "Qui et explicabo voluptatem et ab qui vero et voluptas. Sint voluptates temporibus quam autem. Atque nostrum voluptatum laudantium a doloremque enim et ut dicta. Nostrum ducimus est iure minima totam doloribus nisi ullam deserunt. Corporis aut officiis sit nihil est. Labore aut sapiente aperiam. Qui voluptas qui vero ipsum ea voluptatem. Omnis et est. Voluptatem officia voluptatem adipisci et iusto provident doloremque consequatur. Quia et porro est. Et qui corrupti laudantium ipsa. Eum quasi saepe aperiam qui delectus quaerat in. Vitae mollitia ipsa quam. Ipsa aut qui numquam eum iste est dolorum. Rem voluptas ut sit ut.",
+            "available_seats":30,
+            "schedule":"5.00 pm - 7.00 pm",
+            "trainer": {
+                "name" : "Brandon",
+                "photo": "assets/img/trainers/trainer-3.jpg",
+                "followers": 20,
+                "likes": 100
+            },
+            "features":[
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-1.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-2.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-3.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-4.png"
+                },
+                {
+                    "title":"Architecto ut",
+                    "heading": "Architecto ut aperiam autem id",
+                    "description" : "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero",
+                    "photo": "assets/img/course-details-tab-5.png"
+                }
+            ]
+        }
+    ]
+}
