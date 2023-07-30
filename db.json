@@ -344,5 +344,40 @@
                 }
             ]
         }
+    ],
+    "trainers": [
+        {
+            "id" : 1,
+            "name": "Walter White",
+            "subject": "Web Development",
+            "bio": "Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut",
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "linkedin": "",
+            "photo": "assets/img/trainers/trainer-1.jpg"
+        },
+        {
+            "id" : 2,
+            "name": "Sarah Jhinson",
+            "subject": "Marketing",
+            "bio": "Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus",
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "linkedin": "",
+            "photo": "assets/img/trainers/trainer-2.jpg"
+        },
+        {
+            "id" : 3,
+            "name": "William Anderson",
+            "subject": "Content",
+            "bio": "Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara",
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "linkedin": "",
+            "photo": "assets/img/trainers/trainer-3.jpg"
+        }
     ]
 }

@@ -7,8 +7,8 @@ const Trainers = () => import('../views/TrainersView.vue')
 const Events = () => import('../views/EventsView.vue')
 const Pricing = () => import('../views/PricingView.vue')
 const Contact = () => import('../views/ContactView.vue')
-const NotFound = () => import('../views/NotFound.vue')
 const CourseDetails = () => import('../views/CourseDetails.vue')
+const NotFound = () => import('../views/NotFound.vue')
 
 
 const router = createRouter({

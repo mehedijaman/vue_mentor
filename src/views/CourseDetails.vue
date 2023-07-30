@@ -47,24 +47,24 @@ onMounted(async () =>{
         <div class="row">
           <div class="col-lg-8">
             <img src="assets/img/course-details.jpg" class="img-fluid" alt="">
-            <h3>{{ course.name }}</h3>
-            <p>{{ course.description }}</p>
+            <h3></h3>
+            <p></p>
           </div>
           <div class="col-lg-4">
 
             <div class="course-info d-flex justify-content-between align-items-center">
               <h5>Trainer</h5>
-              <p><a href="#">{{ course.trainer.name }}</a></p>
+              <p><a href="#"></a></p>
             </div>
 
             <div class="course-info d-flex justify-content-between align-items-center">
               <h5>Course Fee</h5>
-              <p>{{ course.price }}</p>
+              <p></p>
             </div>
 
             <div class="course-info d-flex justify-content-between align-items-center">
               <h5>Available Seats</h5>
-              <p>{{ course.available_seats }}</p>
+              <p></p>
             </div>
 
             <div class="course-info d-flex justify-content-between align-items-center">
@@ -95,12 +95,12 @@ onMounted(async () =>{
               <div class="tab-pane active show" :id="`#feature${index}`">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>{{ feature.heading }}</h3>
-                    <p>{{ feature.descriptions }}</p>
+                    <h3>Heading</h3>
+                    <p>Description</p>
                   </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                  <!-- <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img :src="feature.photo" alt="" class="img-fluid">
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>

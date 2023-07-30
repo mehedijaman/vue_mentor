@@ -1,4 +1,5 @@
 <script setup>
+import CoursesView from './CoursesView.vue'
 </script>
  <template>
    <!-- ======= Hero Section ======= -->
@@ -296,6 +297,7 @@
 
       </div>
     </section><!-- End Popular Courses Section -->
+
 
     <!-- ======= Trainers Section ======= -->
     <section id="trainers" class="trainers">
