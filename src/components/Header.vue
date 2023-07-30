@@ -1,4 +1,6 @@
-<script setup></script>
+<script setup>
+// import router from 'json-server/lib/server/router';
+</script>
 <template>
     <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
@@ -8,7 +10,7 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><RouterLink class="active" to="/">Home</RouterLink></li>
+          <li><RouterLink class="" to="/">Home</RouterLink></li>
           <li><RouterLink to="/about">About</RouterLink></li>
           <li><RouterLink to="/courses">Courses</RouterLink></li>
           <li><RouterLink to="/trainers">Trainers</RouterLink></li>
